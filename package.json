@@ -1,0 +1,19 @@
+{
+  "name": "serverless-config-json",
+  "version": "1.0.0",
+  "description": "Serverless plugin that copy a config file to a folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dybbis/serverless-config-json.git"
+  },
+  "author": "Jo Dybdal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dybbis/serverless-config-json/issues"
+  },
+  "homepage": "https://github.com/dybbis/serverless-config-json#readme"
+}
