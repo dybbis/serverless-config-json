@@ -8,7 +8,7 @@ class ConfigJson {
     this.serverless = serverless;
     this.options = options || {};
     this.commands = {
-      cloudfrontInvalidate: {
+      copy: {
         usage: "Copy config.json",
         lifecycleEvents: [
           'copy'
@@ -50,4 +50,4 @@ class ConfigJson {
   }
 }
 
-module.exports = CloudfrontInvalidate;
+module.exports = ConfigJson;
