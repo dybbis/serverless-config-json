@@ -1,6 +1,6 @@
 {
   "name": "serverless-config-json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Serverless plugin that copy a config file to a folder",
   "main": "index.js",
   "scripts": {
