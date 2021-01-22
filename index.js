@@ -9,7 +9,7 @@ class ConfigJson {
     this.options = options || {};
     this.commands = {
       cloudfrontInvalidate: {
-        usage: "Copy config.json to folder",
+        usage: "Copy config.json",
         lifecycleEvents: [
           'copy'
         ]
